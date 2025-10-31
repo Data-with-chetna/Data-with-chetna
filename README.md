@@ -77,8 +77,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=nazil-the-professor&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nazil-the-professor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Data-with-chetna&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Data-with-chetna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
 </div>
 
 ###
